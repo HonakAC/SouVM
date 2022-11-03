@@ -1,0 +1,2 @@
+mov 1x01 msg
+int 15
